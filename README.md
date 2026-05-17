@@ -13,8 +13,9 @@
 5. Which condition keeps patients in the hospital the longest?
 6. What is the most prescribed medication?
 7. Which condition give the most abnormal test result?
-8. What is the most common medication condition?
+8. What is the most common blood group?
 9. Which month generate the highest revenue?
+10. Condtion with the average hospital
 ---
 ## Q1 
 Which condition generates the highest revenue?
@@ -90,8 +91,28 @@ The chart tracks the volume of the top five prescribed medications, arranged in 
 
  ---
  ## Q8
-What is the most common medication condition?
+ What is the most common blood group?
 
-![](MOST-COMMON-MEDICATION.png)
+![](BLOOD-GROUP.png)
 
- 
+ ## INSIGHT 
+There is a clear, step-down downward trend in frequency across the blood groups shown, moving from left to right.
+Most Common Groups: A- and A+ are the most prevalent blood groups in this specific dataset, closely followed by B+ and AB+.
+
+---
+## Q9 
+Which month generate the highest revenue?
+
+![](MONTHLY-REVENUE-TREND.png)
+
+## INSIGHT
+Focusing specifically on the peak performance period in July and August where revenue tops out at approximately ₦121.5 million,Unlike other months where revenue spikes and immediately drops (like January or March), July and August form a stable, high-performing plateau.
+
+---
+ ## Q10
+ Condtion with the average hospital
+
+ ![](AVERAGE-HOSPITAL-STAY.png)
+
+ ## INSIGHT
+Asthma stands out significantly as the condition with the longest average hospital stay in this dataset, peaking near the top of the chart's scale.
