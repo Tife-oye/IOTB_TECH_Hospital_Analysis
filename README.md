@@ -26,15 +26,6 @@ Which condition generates the highest revenue?
 From the trend above the medical condition with the highest revenue is **Diabetes**
 it is a major revenue driver because it requires ongoing treatemnt,medications,and regular patirnt visits
 
-**Observation**
-diabetes may contribute more financially because they often require long-term treatment, tests, and medication
-
-**Recommendations**
-Improve patient care quality to maintain trust and increase treatment efficiency.
-
-**Bussiness Suggestion**
-Develop medical laboratory and diagnostic services focused on diabetes disease management.
-
 ---
 ## Q2
 Which age group visits the hospital most?
@@ -116,3 +107,42 @@ Focusing specifically on the peak performance period in July and August where re
 
  ## INSIGHT
 Asthma stands out significantly as the condition with the longest average hospital stay in this dataset, peaking near the top of the chart's scale.
+
+---
+# Overall Insight
+
+The hospital report shows a high volume of patient activities across different age groups, medical conditions, medications, and insurance providers. Chronic illnesses such as Arthritis, Diabetes, and Hypertension appear to dominate hospital cases and abnormal test results, indicating a strong need for long-term healthcare management. Revenue generation is also consistent throughout the year, with months like August and July recording the highest patient activity and billing performance. Insurance companies and commonly prescribed medications contribute significantly to the hospital’s financial strength.
+
+# Observations
+
+* Arthritis is the most common medical condition recorded, closely followed by Diabetes and Hypertension.
+* The age group **53–62 years** visits the hospital the most, showing that middle-aged and older adults form the majority of patients.
+* August recorded the highest patient-related activity, while February had the lowest.
+* Cigna generated the highest billing amount among insurance providers.
+* Lipitor and Ibuprofen are among the most prescribed medications.
+* Abnormal test results are highest among Arthritis and Diabetes patients, suggesting these conditions require closer monitoring.
+* Monthly hospital revenue remains relatively stable, indicating consistent patient flow throughout the year.
+* Blood groups A- and A+ appear most frequently in the report.
+
+# Recommendations
+
+* Increase awareness and preventive care programs for chronic illnesses such as Arthritis, Diabetes, and Hypertension.
+* Strengthen geriatric and middle-age healthcare services since the 53–62 age group represents the highest number of patients.
+* Improve laboratory monitoring and follow-up systems for patients with abnormal test results.
+* Ensure adequate stock and supply management for frequently prescribed drugs like Lipitor and Ibuprofen.
+* Develop partnerships with top insurance providers such as Cigna to improve patient access and hospital revenue.
+* Allocate more medical staff and resources during peak months like July and August to reduce pressure on hospital operations.
+* Introduce wellness and lifestyle education programs focused on diet, exercise, and routine health checks.
+
+# Business Suggestions
+
+* Create specialized chronic disease clinics for Arthritis, Diabetes, and Hypertension management.
+* Launch subscription-based health monitoring plans for middle-aged and elderly patients.
+* Invest in digital health systems for patient tracking, medication reminders, and test result monitoring.
+* Partner with pharmaceutical companies to supply high-demand medications at reduced costs.
+* Expand insurance collaborations to attract more insured patients and improve financial performance.
+* Introduce preventive health campaigns and community outreach programs to increase hospital patronage.
+* Develop premium healthcare packages targeting high-risk age groups and chronic illness patients.
+
+
+
