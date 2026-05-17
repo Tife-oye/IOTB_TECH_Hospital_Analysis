@@ -145,7 +145,7 @@ The hospital report shows a high volume of patient activities across different a
 * Develop premium healthcare packages targeting high-risk age groups and chronic illness patients.
 
 ### PROJECT FILE
-![DownloadvExcel Project File](./healthcare_dataset.xlsx)
+![Download Excel Project File](./healthcare_dataset.xlsx)
 
 # AUTHOR 
 OYEDIBU BOLUWATIFE
